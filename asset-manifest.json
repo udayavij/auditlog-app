@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/auditlog-app/static/css/main.f855e6bc.css",
+    "main.js": "/auditlog-app/static/js/main.2ee21633.js",
+    "static/js/453.e12aa87f.chunk.js": "/auditlog-app/static/js/453.e12aa87f.chunk.js",
+    "index.html": "/auditlog-app/index.html",
+    "main.f855e6bc.css.map": "/auditlog-app/static/css/main.f855e6bc.css.map",
+    "main.2ee21633.js.map": "/auditlog-app/static/js/main.2ee21633.js.map",
+    "453.e12aa87f.chunk.js.map": "/auditlog-app/static/js/453.e12aa87f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2ee21633.js"
+  ]
+}
